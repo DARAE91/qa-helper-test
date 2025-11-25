@@ -38,5 +38,15 @@
     "description": "정렬 기준 및 용량 기능 확인",
     "type": "LIVE",
     "sizeBytes": 10204029000
+  },
+  {
+    "name": "테스트 빌드5",
+    "fileName": "Steam.zip",
+    "downloadUrl": "-",
+    "version": "-",
+    "date": "-",
+    "description": "NULL 및 연결된 다운로드 링크가 유효하지 않을 때 동작 확인",
+    "type": "-",
+    "sizeBytes": -
   }
 ]
