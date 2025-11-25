@@ -7,14 +7,14 @@
     "date": "2025-11-25",
     "description": "기능 구현 확인을 위한 테스트용 파일",
     "type": "DEV",
-    "sizeBytes": 748
+    "sizeBytes": 1000000
   },
   {
     "name": "테스트 빌드2",
     "fileName": "Steam.zip",
     "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Steam.zip",
     "version": "1.0.1",
-    "date": "2025-11-25",
+    "date": "2025-11-26",
     "description": "목록 갱신 확인을 위한 추가 리스트",
     "type": "QA",
     "sizeBytes": 524288000
@@ -24,7 +24,7 @@
     "fileName": "Steam.zip",
     "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Steam.zip",
     "version": "1.0.1",
-    "date": "2025-11-25",
+    "date": "2025-11-27",
     "description": "DEV,QA,LIVE 빌드 라벨 확인을 위한 리스트",
     "type": "LIVE",
     "sizeBytes": 102040290
