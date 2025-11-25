@@ -43,10 +43,10 @@
     "name": "테스트 빌드5",
     "fileName": "Steam.zip",
     "downloadUrl": "-",
-    "version": "-",
+    "version": "1.0.3",
     "date": "-",
     "description": "NULL 및 연결된 다운로드 링크가 유효하지 않을 때 동작 확인",
-    "type": "-",
-    "sizeBytes": 1
+    "type": "DEV",
+    "sizeBytes": 0
   }
 ]
