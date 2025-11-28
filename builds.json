@@ -31,8 +31,8 @@
   },
   {
     "name": "테스트 빌드4",
-    "fileName": "Google Chrome.zip",
-    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Google%20Chrome.zip",
+    "fileName": "QAHelperTool.zip",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/hf0r0chb3bn15mie2rte6/QAHelperTool_Setup_1.0.0.zip?rlkey=g1qwya3vr1snehizk4cxbuova&st=41noa67n&dl=0",
     "version": "1.1.1",
     "date": "2025-11-28",
     "description": "정렬 기준 및 용량 기능 확인",
