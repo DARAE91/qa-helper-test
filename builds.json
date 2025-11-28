@@ -1,8 +1,8 @@
 [
   {
     "name": "테스트 빌드1",
-    "fileName": "Steam.zip",
-    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Steam.zip",
+    "fileName": "Google Chrome.zip",
+    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Google%20Chrome.zip",
     "version": "1.0.0",
     "date": "2025-11-25",
     "description": "기본 기능 구현 확인을 위한 테스트용 파일",
@@ -11,8 +11,8 @@
   },
   {
     "name": "테스트 빌드2",
-    "fileName": "Steam.zip",
-    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Steam.zip",
+    "fileName": "Google Chrome.zip",
+    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Google%20Chrome.zip",
     "version": "1.0.1",
     "date": "2025-11-26",
     "description": "목록 갱신 확인을 위한 추가 리스트",
@@ -21,8 +21,8 @@
   },
   {
     "name": "테스트 빌드3",
-    "fileName": "Steam.zip",
-    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Steam.zip",
+    "fileName": "Google Chrome.zip",
+    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Google%20Chrome.zip",
     "version": "1.1.0",
     "date": "2025-11-27",
     "description": "DEV,QA,LIVE 빌드 라벨 확인을 위한 리스트",
@@ -31,8 +31,8 @@
   },
   {
     "name": "테스트 빌드4",
-    "fileName": "Steam.zip",
-    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Steam.zip",
+    "fileName": "Google Chrome.zip",
+    "downloadUrl": "https://github.com/DARAE91/qa-helper-test/raw/refs/heads/main/Google%20Chrome.zip",
     "version": "1.1.1",
     "date": "2025-11-28",
     "description": "정렬 기준 및 용량 기능 확인",
@@ -41,7 +41,7 @@
   },
   {
     "name": "테스트 빌드5",
-    "fileName": "Steam.zip",
+    "fileName": "Google Chrome.zip",
     "downloadUrl": "-",
     "version": "1.0.3",
     "date": "-",
@@ -55,7 +55,7 @@
     "downloadUrl": "-",
     "version": "-",
     "date": "-",
-    "description": "테스트 빌드 1~5 모두 테스트를 위한 임시 데이터입니다. \n실제로는 다운로드를 받더라도 Steam 실행 파일이 포함된 압축파일 하나만 포함되어 있습니다.\nGithub 에서 임시 데이터를 넣고 제어한 테스트 정보입니다.",
+    "description": "테스트 빌드 1~5 모두 테스트를 위한 임시 데이터입니다. \n실제로는 다운로드를 받더라도 Google Chrome 실행 파일이 포함된 압축파일 하나만 포함되어 있습니다.\nGithub 에서 임시 데이터를 넣고 제어한 테스트 정보입니다.",
     "type": "DEV",
     "sizeBytes": 0
   }
