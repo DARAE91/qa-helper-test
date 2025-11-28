@@ -31,7 +31,7 @@
   },
   {
     "name": "테스트 빌드4",
-    "fileName": "QAHelperTool.zip",
+    "fileName": "Google Chrome.zip",
     "downloadUrl": "https://www.dropbox.com/scl/fi/hf0r0chb3bn15mie2rte6/QAHelperTool_Setup_1.0.0.zip?rlkey=g1qwya3vr1snehizk4cxbuova&st=41noa67n&dl=1",
     "version": "1.1.1",
     "date": "2025-11-28",
@@ -49,13 +49,23 @@
     "type": "DEV",
     "sizeBytes": 0
   },
-    {
+  {
+    "name": "테스트 빌드6",
+    "fileName": "QAHelperTool.zip",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/hf0r0chb3bn15mie2rte6/QAHelperTool_Setup_1.0.0.zip?rlkey=g1qwya3vr1snehizk4cxbuova&st=41noa67n&dl=1",
+    "version": "1.0.0",
+    "date": "2025-11-29",
+    "description": "다운로드 및 속도체크, 압축 해제, 빌드 실행 단계 확인",
+    "type": "LIVE",
+    "sizeBytes": 100960000
+  },
+  {
     "name": "전부 테스트 용도로 임시 생성된 데이터입니다",
     "fileName": "Steam.zip",
     "downloadUrl": "-",
     "version": "-",
     "date": "-",
-    "description": "테스트 빌드 1~5 모두 테스트를 위한 임시 데이터입니다. \n실제로는 다운로드를 받더라도 Google Chrome 실행 파일이 포함된 압축파일 하나만 포함되어 있습니다.\nGithub 에서 임시 데이터를 넣고 제어한 테스트 정보입니다.",
+    "description": "테스트 빌드 1~5 모두 테스트를 위한 임시 데이터입니다. \n실제로는 다운로드를 받더라도 Google Chrome 실행 파일이 포함된 압축파일 하나만 포함되어 있습니다.\nGithub 에서 임시 데이터를 넣고 제어한 테스트 정보입니다.\n테스트 빌드 6은 실행 테스트를 위한 Helper Tool.exe가 포함되어 있습니다",
     "type": "DEV",
     "sizeBytes": 0
   }
